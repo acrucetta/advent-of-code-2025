@@ -1,0 +1,6 @@
+# dune init project aoc2025
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root:
+# /Users/andrescru/Library/CloudStorage/OneDrive-WaltzHealth/Documents/Github/advent-of-code-2025/ocaml/aoc2025
+# Auto-detected concurrency: 8

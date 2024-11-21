@@ -28,3 +28,7 @@ dhat-heap.json
 # Benchmarks
 
 data/timings.json
+
+## opam stuff
+ocaml/_opam/*
+**/_opam/
